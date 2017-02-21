@@ -4,4 +4,4 @@ import {
 
 import Finance from './Finance';
 
-AppRegistry.registerComponent('Finance', () => Finance);
+AppRegistry.registerComponent('biz_rn', () => Finance);
