@@ -1,4 +1,12 @@
 
+.idea/
+android/.gradle
+android/.idea/
+android/app/app.iml
+android/*.iml
+android/local.properties
+
+
 # Most part of this file is created by https://www.gitignore.io
 
 ### Node ###
